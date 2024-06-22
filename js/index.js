@@ -200,10 +200,9 @@
 
 // function findYordamida(arr, shart) {
 //     let result = arr.find(function (value) {
-//         if (shart) {
-//           return value;  
-//         } 
+//         return value == shart;
 //     })
+//      return result;
 // }
 // console.log(findYordamida([1, 2, 3, 4, 5], value > 5));
 
